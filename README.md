@@ -1,7 +1,1 @@
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_badge.svg)](https://repography.com)
-[![Timeline graph](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_timeline.svg)](https://github.com/clap-rs/clap/commits)
-[![Issue status graph](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_issues.svg)](https://github.com/clap-rs/clap/issues)
-[![Pull request status graph](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_prs.svg)](https://github.com/clap-rs/clap/pulls)
-[![Trending topics](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_words.svg)](https://github.com/clap-rs/clap/commits)
-[![Top contributors](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_users.svg)](https://github.com/clap-rs/clap/graphs/contributors)
-[![Activity map](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_map.svg)](https://github.com/clap-rs/clap/commits)
+[![Top contributors](https://images.repography.com/33563608/thales-goncalves/rpg-manager-web/top-contributors/BFHafwjwjm_k3ZXZXJN08eZ70ARah8l9XH6yb_hS-kg/GzlRif7Q_kjyf1leCOhlLG7QwJ1l69eChXoQOiuh8Ps_table.svg)](https://github.com/thales-goncalves/rpg-manager-web/graphs/contributors)
